@@ -1,5 +1,4 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
     margin:0px;
 }
 
@@ -11,7 +10,7 @@ body {
     color: yellow;
     background-color: blue;
     padding: 8px;
-    margin-top: 8 px;
+    margin-top: 8px;
     display: inline;
     font-size: 32px;
     font-weight: bold;
@@ -50,4 +49,23 @@ body {
     text-align: center;
     color:grey;
     padding-bottom: 8px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img img {
+    width: 100%;
+    height: auto;
+}
+
+#sportimg img {
+    width: 100%;
+    height: auto;
 }
